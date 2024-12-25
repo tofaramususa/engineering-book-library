@@ -1,45 +1,46 @@
 1. The Coding Career Handbook.pdf
 2. The Science of Self Learning.pdf
-3. Release_It_Design_and_Deploy_Production_Ready_Software_Michael_T_Nygard_1st_Ed_2018.pdf
-4. Meta Learning.pdf
-5. LinuxNotesForProfessionals.pdf
-6. TypeScriptNotesForProfessionals.pdf
-7. The Introspective Engineer.pdf
-8. The Engineers of 2020.pdf
-9. Modern Software Engineering_ Doing What Works to Build Better Software Faster.pdf
-10. Hamming-TheArtOfDoingScienceAndEngineering.pdf
-11. system-design-interview-an-insiders.pdf
-12. The great mental models Vol 3 - systems and mathematics.pdf
-13. BashNotesForProfessionals.pdf
-14. Computer Networking A Top-Down Approach, Global Edition, 8th Edition.pdf
-15. Expert Advisor Programming for MetaTrader 5.pdf
-16. Build_ An Unorthodox Guide to Making Things Worth Making.pdf
-17. ReactJSNotesForProfessionals.pdf
-18. 438. Software Engineering at Google.pdf
-19. System Design The Big Archive.pdf
-20. Fundamentals of Data Engineering -- Joe Reis; Matt Housley -- 1, 2022.pdf
-21. Teach Yourself Computer Science.pdf
-22. Fundamentals of Software Architecture.pdf
-23. Definition of the Engineering Method.pdf
-24. head-first-design-patterns-building-extensible-and-maintainable-object-oriented-software.pdf
-25. Head_First_Object-Oriented_Analysis_Design.pdf
-26. The Lean Startup.pdf
-27. How To Solve It George Polya .pdf
-28. AlgorithmsNotesForProfessionals.pdf
-29. Building Microservices - Designing Fine-Grained Systems.pdf
-30. MySQLNotesForProfessionals.pdf
-31. refactoring-ui-v102.pdf
-32. SkienaTheAlgorithmDesignManual.pdf
-33. Programming Competency Matrix.pdf
-34. NodeJSNotesForProfessionals.pdf
-35. ReactNativeNotesForProfessionals.pdf
-36. Zero to One_ Notes on Startups, or How to Build the Future .pdf
-37. The Mind's Eye Nonverbal Thought in Technology.pdf
-38. PostgreSQLNotesForProfessionals.pdf
-39. C++ Software Design Book.pdf
-40. Patterns of Enterprise Application Architecture - Martin Fowler.pdf
-41. CPlusPlusNotesForProfessionals.pdf
-42. Designing Data Intensive Applications.pdf
-43. Docker-up-and-running.pdf
-44. JavaScriptNotesForProfessionals.pdf
-45. LLM Engineer’s Handbook_ Master the art of engineering Large -- Paul Iusztin, Maxime Labonne, Alex Vesa -- 2024 -- Packt Publishing -- 9781836200079 -- 52cf03e1cedfdc293f453dc715360522 -- Anna’s .pdf
+3. Continuous-delivery-pipelines-how-to-build-better-software-faster.epub
+4. Release_It_Design_and_Deploy_Production_Ready_Software_Michael_T_Nygard_1st_Ed_2018.pdf
+5. Meta Learning.pdf
+6. LinuxNotesForProfessionals.pdf
+7. TypeScriptNotesForProfessionals.pdf
+8. The Introspective Engineer.pdf
+9. The Engineers of 2020.pdf
+10. Modern Software Engineering_ Doing What Works to Build Better Software Faster.pdf
+11. Hamming-TheArtOfDoingScienceAndEngineering.pdf
+12. system-design-interview-an-insiders.pdf
+13. The great mental models Vol 3 - systems and mathematics.pdf
+14. BashNotesForProfessionals.pdf
+15. Computer Networking A Top-Down Approach, Global Edition, 8th Edition.pdf
+16. Expert Advisor Programming for MetaTrader 5.pdf
+17. Build_ An Unorthodox Guide to Making Things Worth Making.pdf
+18. ReactJSNotesForProfessionals.pdf
+19. 438. Software Engineering at Google.pdf
+20. System Design The Big Archive.pdf
+21. Fundamentals of Data Engineering -- Joe Reis; Matt Housley -- 1, 2022.pdf
+22. Teach Yourself Computer Science.pdf
+23. Fundamentals of Software Architecture.pdf
+24. Definition of the Engineering Method.pdf
+25. head-first-design-patterns-building-extensible-and-maintainable-object-oriented-software.pdf
+26. Head_First_Object-Oriented_Analysis_Design.pdf
+27. The Lean Startup.pdf
+28. How To Solve It George Polya .pdf
+29. AlgorithmsNotesForProfessionals.pdf
+30. Building Microservices - Designing Fine-Grained Systems.pdf
+31. MySQLNotesForProfessionals.pdf
+32. refactoring-ui-v102.pdf
+33. SkienaTheAlgorithmDesignManual.pdf
+34. Programming Competency Matrix.pdf
+35. NodeJSNotesForProfessionals.pdf
+36. ReactNativeNotesForProfessionals.pdf
+37. Zero to One_ Notes on Startups, or How to Build the Future .pdf
+38. The Mind's Eye Nonverbal Thought in Technology.pdf
+39. PostgreSQLNotesForProfessionals.pdf
+40. C++ Software Design Book.pdf
+41. Patterns of Enterprise Application Architecture - Martin Fowler.pdf
+42. CPlusPlusNotesForProfessionals.pdf
+43. Designing Data Intensive Applications.pdf
+44. Docker-up-and-running.pdf
+45. JavaScriptNotesForProfessionals.pdf
+46. LLM Engineer’s Handbook_ Master the art of engineering Large -- Paul Iusztin, Maxime Labonne, Alex Vesa -- 2024 -- Packt Publishing -- 9781836200079 -- 52cf03e1cedfdc293f453dc715360522 -- Anna’s .pdf

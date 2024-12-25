@@ -11,7 +11,7 @@ def open_directory():
     # os.startfile(directory)
     subprocess.run(["open", directory])
     # get list of all the books that end with pdf
-    books = [file for file in os.listdir(directory) if file.endswith(".pdf")]
+    books = [file for file in os.listdir(directory) if file.endswith((".pdf", "epub"))]
     # print the list of books
     existing_books = set()
 
